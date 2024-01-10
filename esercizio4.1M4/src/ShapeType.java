@@ -1,0 +1,3 @@
+enum ShapeType {
+    CIRCLE, RECTANGLE
+}
